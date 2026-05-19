@@ -1,0 +1,10 @@
+VIA		:	Nanu 
+KM 		:	100.0
+LONG		:	50
+SENTIDO		:	>
+HORA		:	18:3:0
+FECHA		:	0/0/0
+LATITUD		:	1735.2710 
+LONGITUD	:	9062.7611 \
+----------------------------------------------------
+BUMP1		BUMP2		HORA		LATITUD		LONGITUD

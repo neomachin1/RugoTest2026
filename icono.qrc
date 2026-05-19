@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>IcoInv.ico</file>
+    <file>usb2.png</file>
+  </qresource>
+</RCC>
